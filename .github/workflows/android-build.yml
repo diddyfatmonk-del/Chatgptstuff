@@ -1,1 +1,1 @@
-
+name: Build lib AMB Test APK. on: workflow dispatch, push, branches main
